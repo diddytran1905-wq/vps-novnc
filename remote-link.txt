@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://figures-grand-easier-legs.trycloudflare.com/vnc.html
+URL       : https://peak-char-std-automatic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-14 20:13:30
+Created   : 2026-06-15 18:19:10
 =======================================================
