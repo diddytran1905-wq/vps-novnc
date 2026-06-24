@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://walks-masters-entrepreneur-recognition.trycloudflare.com/vnc.html
+URL       : https://hats-facility-formal-communication.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-23 21:22:03
+Created   : 2026-06-24 10:39:39
 =======================================================
