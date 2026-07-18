@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://garlic-development-indianapolis-formation.trycloudflare.com/vnc.html
+URL       : https://loaded-infections-appreciation-removal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-18 02:32:21
+Created   : 2026-07-18 07:03:20
 =======================================================
