@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://saved-done-julie-discipline.trycloudflare.com/vnc.html
+URL       : https://compute-pursuant-arabic-airplane.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 16:22:45
+Created   : 2026-07-22 21:10:53
 =======================================================
