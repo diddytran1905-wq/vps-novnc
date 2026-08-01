@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://titled-gently-put-pounds.trycloudflare.com/vnc.html
+URL       : https://dispatch-opportunities-lafayette-bears.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 21:06:28
+Created   : 2026-08-01 02:50:01
 =======================================================
