@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thereafter-louisiana-burke-rings.trycloudflare.com/vnc.html
+URL       : https://has-realize-graphics-academic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 05:26:44
+Created   : 2026-08-15 10:24:31
 =======================================================
