@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://approved-occasions-troops-having.trycloudflare.com/vnc.html
+URL       : https://titans-well-interior-crest.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-14 20:33:05
+Created   : 2026-08-15 01:15:19
 =======================================================
