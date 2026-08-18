@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://relate-hazards-registration-thumbzilla.trycloudflare.com/vnc.html
+URL       : https://cognitive-train-lee-relative.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 20:29:25
+Created   : 2026-08-18 01:14:46
 =======================================================
