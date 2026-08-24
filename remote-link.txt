@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://minimize-pleased-buzz-min.trycloudflare.com/vnc.html
+URL       : https://hiring-badge-heavy-taking.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 20:24:19
+Created   : 2026-08-24 01:18:52
 =======================================================
