@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stability-griffin-engaged-circle.trycloudflare.com/vnc.html
+URL       : https://protected-farmers-milton-pad.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-01 09:49:20
+Created   : 2026-09-01 14:36:16
 =======================================================
