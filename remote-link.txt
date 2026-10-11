@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ordinance-unit-ours-vertex.trycloudflare.com/vnc.html
+URL       : https://dominant-informative-suggests-secondary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 23:19:57
+Created   : 2026-10-11 04:24:24
 =======================================================
