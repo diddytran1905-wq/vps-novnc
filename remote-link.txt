@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://psi-honor-end-admissions.trycloudflare.com/vnc.html
+URL       : https://reception-attendance-semiconductor-spotlight.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 12:49:17
+Created   : 2026-10-12 22:26:13
 =======================================================
