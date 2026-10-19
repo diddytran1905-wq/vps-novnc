@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://downloads-athens-yale-quick.trycloudflare.com/vnc.html
+URL       : https://placed-sale-institute-surname.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-19 10:34:22
+Created   : 2026-10-19 20:25:49
 =======================================================
