@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reform-transformation-atlantic-departmental.trycloudflare.com/vnc.html
+URL       : https://karl-edge-disabilities-spread.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 18:59:52
+Created   : 2026-10-20 23:00:22
 =======================================================
