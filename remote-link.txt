@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mate-morrison-sensitive-leo.trycloudflare.com/vnc.html
+URL       : https://criterion-requiring-system-improvements.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 04:25:32
+Created   : 2026-10-31 10:46:38
 =======================================================
