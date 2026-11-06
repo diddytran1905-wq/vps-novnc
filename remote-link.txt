@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://focused-quarters-wishes-necessarily.trycloudflare.com/vnc.html
+URL       : https://cloudy-vitamin-modules-techno.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 17:54:39
+Created   : 2026-11-06 00:50:15
 =======================================================
