@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://zinc-cafe-leasing-dns.trycloudflare.com/vnc.html
+URL       : https://newer-rational-interest-approximate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 20:44:41
+Created   : 2026-11-07 04:55:54
 =======================================================
